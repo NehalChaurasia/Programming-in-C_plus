@@ -1,0 +1,2 @@
+
+//use of "clear"function
